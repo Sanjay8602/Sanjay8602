@@ -17,5 +17,5 @@ Open Source Contributor
 ---
 
 ### 📫 How to reach me:
-- Email: (mailto:sutharsh0806@gmail.com)
-- LinkedIn: (https://linkedin.com/in/sanjay-suthar-621921227)
+- Email: sutharsh0806@gmail.com
+- LinkedIn: https://linkedin.com/in/sanjay-suthar-621921227
