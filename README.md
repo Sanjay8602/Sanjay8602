@@ -3,8 +3,9 @@
 
 💻 **Web Developer** | 📊 **Machine Learning Explorer** | 🔍 **Explorer of Large Language Models (LLMs)**
 
-I love building web applications, diving into AI technologies, and working on creative projects that combine both.
+I love building web applications, diving into AI technologies.
 I am Python and AI enthusiast person
+Open Source Contributor
 
 
 ### 🚀 Technologies & Tools:
@@ -16,5 +17,5 @@ I am Python and AI enthusiast person
 ---
 
 ### 📫 How to reach me:
-- Email: [your_email@domain.com](mailto:sutharsh0806@gmail.com)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/sanjay-suthar-621921227)
+- Email: (mailto:sutharsh0806@gmail.com)
+- LinkedIn: (https://linkedin.com/in/sanjay-suthar-621921227)
