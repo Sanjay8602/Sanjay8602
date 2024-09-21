@@ -18,4 +18,3 @@ I am Python and AI enthusiast person
 ### 📫 How to reach me:
 - Email: [your_email@domain.com](mailto:sutharsh0806@gmail.com)
 - LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/sanjay-suthar-621921227)
-
