@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Sanjay!
-### Welcome to my GitHub Profile
 
 💻 **Web Developer** | 📊 **Machine Learning Explorer** | 🔍 **Explorer of Large Language Models (LLMs)**
 
