@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay!
 
-💻 **Web Developer** | 📊 **Machine Learning Explorer** | 🔍 **Explorer of Large Language Models (LLMs)**
+💻 **Web Developer** | 📊 **Machine Learning Explorer** | 🔍 **Learning Large Language Models (LLMs)**
 
 I love building web applications, diving into AI technologies.
 I am Python and AI enthusiast person
